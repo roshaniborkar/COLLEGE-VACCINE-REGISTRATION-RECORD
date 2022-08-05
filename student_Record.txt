@@ -1,0 +1,88 @@
+
+
+			student's Details
+		_________________________________
+
+	student Name: roshni
+	USN_no: 123
+	department Name: CSE
+	Student Phone Number: 827755108
+
+			student's Details
+		_________________________________
+
+	student Name: rose
+	USN_no: 123
+	department Name: cse
+	Student Phone Number: 825515546
+
+			student's Details
+		_________________________________
+
+	student Name: www
+	USN_no: 12
+	department Name: eee
+	Student Phone Number: 123
+
+			student's Details
+		_________________________________
+
+	student Name: tty
+	USN_no: 233
+	department Name: dew
+	Student Phone Number: 233
+
+			student's Details
+		_________________________________
+
+	student Name: rosy
+	USN_no: 111
+	department Name: eee
+	Student Phone Number: 2345
+	vaccine name is covaxin
+	Date is 19/05/2022
+	Date is 09/20/2000
+
+			student's Details
+		_________________________________
+
+	student Name: roshani
+	USN_no: 1
+	department Name: CSE
+	Student Phone Number: 825541266
+	vaccine name is covaxin
+	Date is 19/05/2021
+	Date is 20/06/2021
+
+			student's Details
+		_________________________________
+
+	student Name: riya
+	USN_no: 2
+	department Name: EEE
+	Student Phone Number: 123456789
+	vaccine name is covishield
+	Date is 20/04/2021
+	Date is 26/06/2021
+
+			student's Details
+		_________________________________
+
+	student Name: rise
+	USN_no: 123
+	department Name: cse
+	Student Phone Number: 123456789
+	vaccine name is covaxin
+	Date is 12/06
+	Date is 13/05
+
+			student's Details
+		_________________________________
+
+	student Name: riya
+	USN_no: 124
+	department Name: cse
+	Student Phone Number: 1234568
+	vaccine name is covaxin
+	Date is 12/5
+	Date is 22
