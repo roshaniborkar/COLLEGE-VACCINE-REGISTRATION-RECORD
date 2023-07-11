@@ -1,18 +1,18 @@
 # COLLEGE-VACCINE-REGISTRATION-RECORD
-<h1>PROBLEM DEFINITION:</h1>
+<h3>PROBLEM DEFINITION:</h3>
 Students will forget their vaccination details like date and name of the vaccine. To keep a track of the data this project will be helpful. This can store multiple Student’s vaccine data. This can help the College to keep a record of the student’s vaccine. When we search the student id it shows a name of student name, vaccine name and date. 
 
-OBJECTIVES:
+<h3>OBJECTIVES:</h3>h3>
 This will reduce the usage of paper and store data digitally in the form of files. The data can also be easily accessed. 
 
-METHODOLOGY TO BE FOLLOWED:
+<h3>METHODOLOGY TO BE FOLLOWED:</h3>
 Use of doubly linked lists to store the kid’s vaccination data in the form of files. There is use of files also in this project. Doubly linked list uses self-referential structure. 
 
-FLOWCHART
+<h3>FLOWCHART</h3>
 
 ![image](https://github.com/roshaniborkar/COLLEGE-VACCINE-REGISTRATION-RECORD/assets/58977139/173904e5-28aa-4952-90be-7811d35af00c)
 
-RESULTS 
+<h3>RESULTS</h3>h3> 
 
 ![image](https://github.com/roshaniborkar/COLLEGE-VACCINE-REGISTRATION-RECORD/assets/58977139/33c168ed-a01e-4485-8e95-2f7215e8d5cb)
 ![image](https://github.com/roshaniborkar/COLLEGE-VACCINE-REGISTRATION-RECORD/assets/58977139/abe30b4c-17c8-49c7-8552-f8ce84854bb8)
