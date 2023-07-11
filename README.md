@@ -1,5 +1,5 @@
 # COLLEGE-VACCINE-REGISTRATION-RECORD
-PROBLEM DEFINITION:
+<h1>PROBLEM DEFINITION:</h1>
 Students will forget their vaccination details like date and name of the vaccine. To keep a track of the data this project will be helpful. This can store multiple Student’s vaccine data. This can help the College to keep a record of the student’s vaccine. When we search the student id it shows a name of student name, vaccine name and date. 
 
 OBJECTIVES:
