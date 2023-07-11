@@ -9,9 +9,11 @@ METHODOLOGY TO BE FOLLOWED:
 Use of doubly linked lists to store the kid’s vaccination data in the form of files. There is use of files also in this project. Doubly linked list uses self-referential structure. 
 
 FLOWCHART
+
 ![image](https://github.com/roshaniborkar/COLLEGE-VACCINE-REGISTRATION-RECORD/assets/58977139/173904e5-28aa-4952-90be-7811d35af00c)
 
 RESULTS 
+
 ![image](https://github.com/roshaniborkar/COLLEGE-VACCINE-REGISTRATION-RECORD/assets/58977139/33c168ed-a01e-4485-8e95-2f7215e8d5cb)
 ![image](https://github.com/roshaniborkar/COLLEGE-VACCINE-REGISTRATION-RECORD/assets/58977139/abe30b4c-17c8-49c7-8552-f8ce84854bb8)
 
