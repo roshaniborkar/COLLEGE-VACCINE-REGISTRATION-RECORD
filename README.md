@@ -2,7 +2,7 @@
 <h3>PROBLEM DEFINITION:</h3>
 Students will forget their vaccination details like date and name of the vaccine. To keep a track of the data this project will be helpful. This can store multiple Student’s vaccine data. This can help the College to keep a record of the student’s vaccine. When we search the student id it shows a name of student name, vaccine name and date. 
 
-<h3>OBJECTIVES:</h3>h3>
+<h3>OBJECTIVES:</h3>
 This will reduce the usage of paper and store data digitally in the form of files. The data can also be easily accessed. 
 
 <h3>METHODOLOGY TO BE FOLLOWED:</h3>
